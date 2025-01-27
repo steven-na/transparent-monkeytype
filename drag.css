@@ -1,0 +1,9 @@
+/* header is draggable... */
+header #logo {
+  -webkit-app-region: drag;
+}
+
+/* but any buttons inside the header shouldn't be draggable */
+header button {
+  -webkit-app-region: no-drag;
+}
