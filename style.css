@@ -1,3 +1,7 @@
 body {
     background-color: transparent !important;
 }
+
+#ad-result-small-wrapper, #leaderboard_atf, #ad-result-wrapper {
+    display: none;
+}
