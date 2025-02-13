@@ -5,3 +5,7 @@ body {
 #ad-result-small-wrapper, #leaderboard_atf, #ad-result-wrapper {
     display: none;
 }
+
+:root {
+    --sub-alt-color: #00000033;
+}
